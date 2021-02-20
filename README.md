@@ -1,2 +1,6 @@
 # spotify-wrapped-plus
 Data analysis using pandas and seaborn to provide more information than what Spotify Wrapped has to offer.
+
+The purpose of this project was to get more practice using the pandas library and data visualization techniques, which I had learned to use during the 2020 winter break. As someone who enjoys listening to music and has an affinity to data analysis, I look forward to Spotify Wrapped every year. However, there is some information that isn't included in Spotify Wrapped that I was curious about discovering, such as what my top 5 most listened to albums were, and when my most listened to song became my most listened to song.
+
+After requesting my data from Spotify Support, I thought it would be interesting to create my own version of Spotify Wrapped and learn more about my taste in music. I requested my listening history data using [these instructions.](https://www.makeuseof.com/tag/download-privacy-data-spotify/) My data for 2019 and 2020 is included in this repository, and it includes information that I personally requested through Spotify Support. If you want to run this notebook on your data, you may have to modify the notebook for the columns included in your data.
